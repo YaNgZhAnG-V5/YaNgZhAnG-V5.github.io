@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+Hi, I am a PhD student at the National University of Singapore. My research direction is trustworthy ML, which focuses on making machine learning models more transparent, robust, and fair. Currently, I am more interested in the **explainability** of neural networks. In other words, how to let a black box model **provide supporting arguments about its decision-making process**, or even further, train a model that is **inherently transparent**.
+
+Prior to my PhD study, I finished my master's at the Technical University of Munich, Germany, where my subject was *Robotics, Cognition, Intelligence*. I spent a great time doing research at [CAMP](https://www.cs.cit.tum.de/camp/start/) (Chair for Computer Aided Medical Procedures & Augmented Reality). At CAMP, my research topic was about explainable AI and how to apply explanation methods on neural networks trained for medical purposes.
+
+I did my bachelor's study at RWTH Aachen University in Germany, majoring in *Computer Engineering*. My final year thesis and research at the senior stage is about hardware security. Specifically, how to do logic encryption on chips.
+
+I am devoted to making ML more applicable in our everyday life, enabling ML models in safety-critical scenarios like medicine, finance, and civil. During my part time, I enjoy traveling in different places, especially relaxing beside sea, and exploring the other side of our planet through diving.
+<!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -50,3 +58,4 @@ Publications
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
