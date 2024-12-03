@@ -48,9 +48,13 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 # 💻 Internships
 - *2022.03 - 2022.09*, Research Intern, **Microsoft Research Asia**, Beijing, China.
 - *2024.05 - 2024.08*, Data Scientist Intern, **American Express Decision Science**, Singapore, Singapore.
+
+# 💬 Academic Service
+- Reviewer for CVPR 2024, 2025, ACM MM 2024, Neurips 2024, AAAI 2025, ICLR 2025
 
 # 📖 Educations
 - Ph.D. student in Computer Science, School of Computing, **National University of Singapore**, Singapore, Singapore.
