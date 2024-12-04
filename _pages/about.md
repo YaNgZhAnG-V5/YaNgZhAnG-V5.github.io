@@ -30,24 +30,61 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08*: &nbsp;🎉🎉 I finished my internship at American Express Innovation Lab in Singapore.
 
-# 📝 Selected Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📄 Preprint
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[AttributionLab: Faithfulness of Feature Attribution Under Controllable Environments](https://arxiv.org/abs/2310.06514)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yang Zhang**, Yawei Li, Mina Rezaei, Bernd Bischl, Philip Torr, Ashkan Khakzar, Kenji Kawaguchi
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+A feature attribution evaluation framework that leverages synthetic models and data to ensure correct evaluation of the faithfulness of feature attribution methods.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Dual-Perspective Approach to Evaluating Feature Attribution Methods](https://openreview.net/forum?id=znlTP5RLur)
+
+Yawei Li, **Yang Zhang**, Kenji Kawaguchi, Ashkan Khakzar, Bernd Bischl, Mina Rezaei
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+An feature attribution evaluation framework that evaluates the soundness and completeness of feature attribution methods.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Semantic Fidelity in Text-to-Image Synthesis: Attention Regulation in Diffusion Models](https://link.springer.com/chapter/10.1007/978-3-031-73016-0_5)
+
+**Yang Zhang**, Teoh Tze Tzun, Lim Wei Hern, Tiviatis Sim, Kenji Kawaguchi
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+An optimization-based approach to enhance the semantic fidelity of text-to-image diffusion models by regulating the attention maps in diffusion models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fine-grained neural network explanation by identifying input features with predictive information](https://proceedings.neurips.cc/paper/2021/hash/a6d259bfbfa2062843ef543e21d7ec8e-Abstract.html)
+
+**Yang Zhang**, Ashkan Khakzar, Yawei Li, Azade Farshad, Seong Tae Kim, Nassir Navab
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+Fine-grained neural network explanation by attributing input features with predictive information.
+</div>
+</div>
+
+- [Memory-Efficient Gradient Unrolling for Large-Scale Bi-level Optimization](https://openreview.net/forum?id=ZvFLbEPv6x), Qianli Shen, Yezhen Wang, Zhouhao Yang, Xiang Li, Haonan Wang, Yang Zhang, Jonathan Scarlett, Zhanxing Zhu, Kenji Kawaguchi, **NeurIPS 2024**
+- [The stronger the diffusion model, the easier the backdoor: Data poisoning to induce copyright breaches without adjusting finetuning pipeline](https://openreview.net/forum?id=ZvFLbEPv6x), Haonan Wang, Qianli Shen, Yao Tong, Yang Zhang, Kenji Kawaguchi, **ICML 2024**
+- [Explaining covid-19 and thoracic pathology model predictions by identifying informative input features](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_37), Ashkan Khakzar, Yang Zhang, Wejdene Mansour, Yuezhi Cai, Yawei Li, Yucheng Zhang, Seong Tae Kim, Nassir Navab, **MICCAI 2021**
 
 # 💻 Internships
 - *2022.03 - 2022.09*, Research Intern, **Microsoft Research Asia**, Beijing, China.
