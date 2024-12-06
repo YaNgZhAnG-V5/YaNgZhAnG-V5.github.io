@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.08*: &nbsp;🎉🎉 I finished my internship at American Express Innovation Lab in Singapore.
 
 # 📄 Preprint
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/resized_image_500x300_attributionlab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AttributionLab: Faithfulness of Feature Attribution Under Controllable Environments](https://arxiv.org/abs/2310.06514)
@@ -46,7 +46,7 @@ A feature attribution evaluation framework that leverages synthetic models and d
 </div>
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2024</div><img src='images/resized_image_500x300_dual.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Dual-Perspective Approach to Evaluating Feature Attribution Methods](https://openreview.net/forum?id=znlTP5RLur)
@@ -58,7 +58,7 @@ An feature attribution evaluation framework that evaluates the soundness and com
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/resized_image_500x300_attention_regulation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Semantic Fidelity in Text-to-Image Synthesis: Attention Regulation in Diffusion Models](https://link.springer.com/chapter/10.1007/978-3-031-73016-0_5)
@@ -70,7 +70,7 @@ An optimization-based approach to enhance the semantic fidelity of text-to-image
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2021</div><img src='images/resized_image_500x300_input_iba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-grained neural network explanation by identifying input features with predictive information](https://proceedings.neurips.cc/paper/2021/hash/a6d259bfbfa2062843ef543e21d7ec8e-Abstract.html)
