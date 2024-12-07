@@ -35,6 +35,18 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.08*: &nbsp;🎉🎉 I finished my internship at American Express Innovation Lab in Singapore.
 
 # 📄 Preprint
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/resized_image_500x300_ecodiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Effortless Efficiency: Low-Cost Pruning of Diffusion Models](https://arxiv.org/pdf/2412.02852)
+
+**Yang Zhang**, Er Jin, Yanfei Dong, Ashkan Khakzar, Philip Torr, Johannes Stegmaier, Kenji Kawaguchi
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+Diffusion model pruning by neural mask optimization. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/resized_image_500x300_attributionlab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
