@@ -23,12 +23,12 @@ I started my research journey by delving into explainability—unpacking the “
 
 Prior to my PhD study, I finished my master’s at the Technical University of Munich, Germany. I spent a great time doing research at CAMP (Chair for Computer Aided Medical Procedures & Augmented Reality) under the supervision of Professor [Nassir Navab](https://scholar.google.de/citations?user=kzoVUPYAAAAJ&hl=en). At CAMP, my research topic was about explainable AI and how to apply explanation methods on neural networks trained for medical purposes.
 
-I did my bachelor’s study at RWTH Aachen University in Germany. My final year thesis and research at the senior stage is about hardware security (logic encryption on microprocessors), supervised by Professor [Rainer Leupers](https://scholar.google.com/citations?user=f57N-_oAAAAJ&hl=de). I spend one year working on my thesis and as an RA later.
+I did my bachelor’s study at RWTH Aachen University in Germany. My final year thesis and research at the senior stage is about hardware security (logic encryption on microprocessors), supervised by Professor [Rainer Leupers](https://scholar.google.com/citations?user=f57N-_oAAAAJ&hl=de). I spent one year with the group working on my thesis and later as an RA.
 
 My vision is to contribute to the advancement of AI as a transformative tool that enhances the quality of life and addresses meaningful challenges for humanity. I aspire to develop AI systems that are safe, reliable, and impactful, fostering solutions that promote progress and well-being on a global scale. During my part-time, I enjoy traveling to different places, especially relaxing beside the sea, and exploring the other side of our planet through diving.
 
 <!---
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
 # 🔥 News
@@ -55,7 +55,7 @@ Diffusion model pruning by neural mask optimization.
 **Yang Zhang**, Yawei Li, Mina Rezaei, Bernd Bischl, Philip Torr, Ashkan Khakzar, Kenji Kawaguchi
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-A feature attribution evaluation framework that leverages synthetic models and data to ensure correct evaluation of the faithfulness of feature attribution methods.
+A feature attribution evaluation framework that leverages synthetic models and data to ensure correct ground truth knowledge.
 </div>
 </div>
 
@@ -101,16 +101,16 @@ Fine-grained neural network explanation by attributing input features with predi
 - [Explaining covid-19 and thoracic pathology model predictions by identifying informative input features](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_37), Ashkan Khakzar, Yang Zhang, Wejdene Mansour, Yuezhi Cai, Yawei Li, Yucheng Zhang, Seong Tae Kim, Nassir Navab, **MICCAI 2021**
 
 # 💻 Internships
-- *2022.03 - 2022.09*, Research Intern, **Microsoft Research Asia**, Beijing, China.
 - *2024.05 - 2024.08*, Data Scientist Intern, **American Express Decision Science**, Singapore, Singapore.
-
-# 💬 Academic Service
-- Reviewer for CVPR 2024, 2025, ACM MM 2024, Neurips 2024, AAAI 2025, ICLR 2025
+- *2022.03 - 2022.09*, Research Intern, **Microsoft Research Asia**, Beijing, China.
 
 # 📖 Educations
 - Ph.D. student in Computer Science, School of Computing, **National University of Singapore**, Singapore, Singapore.
 - M.Sc. in Robotics, Cognition, Intelligence, Department of Computer Science, **Technical University of Munich**, Munich, Germany. 
 - B.Sc. in Computer Engineering, Department of Electrical Engineering. **RWTH Aachen University**, Aachen, Germany.
+
+# 💬 Academic Service
+- Reviewer for CVPR 2024, 2025, ACM MM 2024, Neurips 2024, AAAI 2025, ICLR 2025
 
 <!---
 # 🎖 Honors and Awards
