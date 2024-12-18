@@ -45,6 +45,8 @@ My research interests include neural machine translation and computer vision. I 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 Diffusion model pruning by neural mask optimization. 
 
+Keywords: **diffusion model**, **structural pruning**
+
 Project homepage: [Here](https://yangzhang-v5.github.io/EcoDiff). Demo: [Here at Huggingface Space](https://huggingface.co/spaces/zhangyang-0123/EcoDiff)
 </div>
 </div>
@@ -58,6 +60,8 @@ Project homepage: [Here](https://yangzhang-v5.github.io/EcoDiff). Demo: [Here at
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 A feature attribution evaluation framework that leverages synthetic models and data to ensure correct ground truth knowledge.
+
+Keywords: **feature attribution**, **evaluation metric**, **synthetic data**
 </div>
 </div>
 
@@ -71,6 +75,8 @@ Yawei Li, **Yang Zhang**, Kenji Kawaguchi, Ashkan Khakzar, Bernd Bischl, Mina Re
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 An feature attribution evaluation framework that evaluates the soundness and completeness of feature attribution methods.
+
+Keywords: **feature attribution**, **evaluation metric**
 </div>
 </div>
 
@@ -83,6 +89,8 @@ An feature attribution evaluation framework that evaluates the soundness and com
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 An optimization-based approach to enhance the semantic fidelity of text-to-image diffusion models by regulating the attention maps in diffusion models.
+
+Keywords: **diffusion model**, **attention edit**
 </div>
 </div>
 
@@ -95,6 +103,8 @@ An optimization-based approach to enhance the semantic fidelity of text-to-image
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 Fine-grained neural network explanation by attributing input features with predictive information.
+
+Keywords: **feature attribution**, **information bottleneck**
 </div>
 </div>
 
