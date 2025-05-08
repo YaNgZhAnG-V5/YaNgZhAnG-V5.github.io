@@ -32,7 +32,7 @@ My research interests include neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 I have paper accepted at ICML.
+- *2025.05*: &nbsp;🎉🎉 I have one first-authored paper accepted at ICML.
 - *2025.01*: &nbsp;🎉🎉 I finished my visit at Torr Vision Group, University of Oxford.
 - *2024.08*: &nbsp;🎉🎉 I finished my internship at American Express Innovation Lab in Singapore.
 
